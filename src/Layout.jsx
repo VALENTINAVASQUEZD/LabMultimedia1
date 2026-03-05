@@ -35,11 +35,11 @@ function Layout() {
                 </Dropdown.Toggle>
                 <Dropdown.Menu>
                   <Dropdown.Item href="/lab/ejercicio1">Ejercicio 1</Dropdown.Item>
-                  <Dropdown.Item href="">Ejercicio 2</Dropdown.Item>
-                  <Dropdown.Item href="">Ejercicio 3</Dropdown.Item>
-                  <Dropdown.Item href="">Ejercicio 4</Dropdown.Item>
-                  <Dropdown.Item href="">Ejercicio 5</Dropdown.Item>
-                  <Dropdown.Item href="">Ejercicio 6</Dropdown.Item>
+                  <Dropdown.Item href="/lab/ejercicio2">Ejercicio 2</Dropdown.Item>
+                  <Dropdown.Item href="/lab/ejercicio3">Ejercicio 3</Dropdown.Item>
+                  <Dropdown.Item href="/lab/ejercicio4">Ejercicio 4</Dropdown.Item>
+                  <Dropdown.Item href="/lab/ejercicio5">Ejercicio 5</Dropdown.Item>
+                  <Dropdown.Item href="/lab/ejercicio6">Ejercicio 6</Dropdown.Item>
                 </Dropdown.Menu>
               </Dropdown>
             </Nav>

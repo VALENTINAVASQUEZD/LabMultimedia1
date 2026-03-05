@@ -6,8 +6,7 @@ const LabEjercicio1 = () => {
       <div style={{ position: "relative", zIndex: 1, padding: "1rem" }}>
         <h3>Laboratorio – Ejercicio 1</h3>
         <p style={{ color: "#aaa" }}>
-          Objeto 3D con textura, iluminación ambiental y direccional. Haz clic
-          sobre el cubo para alternar entre dos texturas.
+           Haz clic sobre el cubo para cambbiar de texturas texturas.
         </p>
       </div>
 
