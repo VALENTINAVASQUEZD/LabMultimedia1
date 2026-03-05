@@ -34,7 +34,7 @@ function Layout() {
                   Laboratorio
                 </Dropdown.Toggle>
                 <Dropdown.Menu>
-                  <Dropdown.Item href="">Ejercicio 1</Dropdown.Item>
+                  <Dropdown.Item href="/lab/ejercicio1">Ejercicio 1</Dropdown.Item>
                   <Dropdown.Item href="">Ejercicio 2</Dropdown.Item>
                   <Dropdown.Item href="">Ejercicio 3</Dropdown.Item>
                   <Dropdown.Item href="">Ejercicio 4</Dropdown.Item>
